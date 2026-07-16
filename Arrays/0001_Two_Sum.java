@@ -1,3 +1,10 @@
+// LeetCode #1 - Two Sum
+// Difficulty: Easy
+// Language: Java
+// Time Complexity: O(n)
+// Space Complexity: O(n)
+
+
 import java.util.HashMap;
 class Solution {
     public int[] twoSum(int[] nums, int target) {
